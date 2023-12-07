@@ -6,6 +6,10 @@
 A console-based wallet application in Java that enables users to make transactions (deposit or withdraw), check balance, view transaction history, and exit.
 
 #### How to Run
+Since the compiled program is already provided, it can be directly executed using the command :
+ `java Wallet`.
+
+#### How to Run if not compiled
 1. Open a terminal or command prompt.
 2. Navigate to the directory containing the Java source file.
 3. Compile the Java file using the command: `javac Wallet.java`.
