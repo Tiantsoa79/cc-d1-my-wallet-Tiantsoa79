@@ -3,7 +3,7 @@
 ### JavaScript Wallet App
 
 #### Description
-A basic wallet application implemented in JavaScript that runs in a Node.js environment. Users can make transactions, check balance, view transaction history, and exit.
+A basic wallet application implemented in JavaScript that runs in a Node.js environment. Users can make transactions (deposit or withdraw), check balance, view transaction history, and exit.
 
 #### How to Run
 1. Ensure you have Node.js installed on your system.
