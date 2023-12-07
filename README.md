@@ -5,6 +5,9 @@
 #### Description
 A console-based wallet application in Java that enables users to make transactions (deposit or withdraw), check balance, view transaction history, and exit.
 
+#### Prerequisite
+Ensure you have Java Development Kit (JDK) installed. If not, download and install it from [Oracle's website](https://www.oracle.com/java/technologies/javase-downloads.html).
+
 #### How to Run
 Since the compiled program is already provided, it can be directly executed using the command :
  `java Wallet`.
