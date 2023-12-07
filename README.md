@@ -8,5 +8,6 @@ A simple console-based wallet application in C# that allows users to perform tra
 #### How to Run
 1. Open a command prompt or terminal.
 2. Navigate to the directory containing the C# source file.
-3. Compile the C# file using the command: `csc WalletApp.cs`.
-4. Run the compiled program using the command: `WalletApp.exe`.
+3. Ensure you have the .NET SDK installed. If not, download and install it from [Microsoft's website](https://dotnet.microsoft.com/download).
+4. Compile the C# file using the command: `csc WalletApp.cs`.
+5. Run the compiled program using the command: `WalletApp.exe`.
