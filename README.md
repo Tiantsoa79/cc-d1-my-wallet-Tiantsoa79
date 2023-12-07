@@ -11,7 +11,7 @@ A basic wallet application implemented in JavaScript that runs in a Node.js envi
 3. Navigate to the directory containing the JavaScript file.
 4. Run the script using the command: 
    ```bash
-   node wallet.js
+   node Wallet.js
    ```
 
 ---
