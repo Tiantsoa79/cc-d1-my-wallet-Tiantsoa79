@@ -6,7 +6,7 @@
 A basic wallet application implemented in JavaScript that runs in a Node.js environment. Users can make transactions (deposit or withdraw), check balance, view transaction history, and exit.
 
 #### How to Run
-1. Ensure you have Node.js installed on your system.
+1. Ensure you have Node.js installed on your system. If not, download and install it from [Node.js official website](https://nodejs.org/).
 2. Open a terminal or command prompt.
 3. Navigate to the directory containing the JavaScript file.
 4. Run the script using the command: 
